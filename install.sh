@@ -7,7 +7,7 @@
 set -e
 
 AVBOX_REPO_DIR="/home/pi/avbox"
-AVBOX_GIT_URL="https://git.hilberg.ddnss.de/lmh/clamavBox.git"
+AVBOX_GIT_URL="git@github.com:tna76874/clamavBox.git"
 
 # Set these values so the installer can still run in color
 COL_NC='\e[0m' # No Color
